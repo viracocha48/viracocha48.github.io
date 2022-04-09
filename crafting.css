@@ -1,0 +1,30 @@
+.inner-img {
+  width: 80px;
+  height: 80px;
+}
+
+.main-img {
+  width: 100px;
+  height: 100px;
+}
+
+article {
+  border: 1em;
+  border-color: black;
+  border-style: solid;
+  background-color: white;
+  padding: 1em;
+}
+
+body {
+  background-color: lightgray;
+}
+
+.inline {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.pad {
+  padding: 3px;
+}
